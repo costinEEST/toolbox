@@ -1,6 +1,11 @@
 
+# Geography 
+
+- [Map boundaries through time](https://www.oldmapsonline.org). Created by [Petr Přidal](https://maplibre.org/about/petr)
+
 # Travel
 
+- https://cruisesheet.com created by [Tynan](https://tynan.com/about)
 - [Find saunas worldwide](https://findmysauna.com). Created by [Jenda Tovarys](https://www.linkedin.com/in/jantovarys)
 
 
