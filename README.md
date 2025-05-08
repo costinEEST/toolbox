@@ -7,6 +7,10 @@
 
 - [Map boundaries through time](https://www.oldmapsonline.org). Created by [Petr Přidal](https://maplibre.org/about/petr)
 
+# Music 
+
+- [Transfer playlists between music services](https://www.tunemymusic.com)
+
 # Speak
 
 - [LinguaSnapp](http://mlm.humanities.manchester.ac.uk/linguasnapp). Created by [Yaron Matras](https://yaronmatras.org/projects)
