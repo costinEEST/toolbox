@@ -7,9 +7,18 @@
 
 - [Map boundaries through time](https://www.oldmapsonline.org). Created by [Petr Přidal](https://maplibre.org/about/petr)
 
+# Mentor 
+
+- [Bug bounty profiles](https://www.disclosedonline.com/directory). Created by [Harley Kimball
+](https://x.com/infinitelogins/status/1929017755136561402)
+
 # Music 
 
 - [Transfer playlists between music services](https://www.tunemymusic.com)
+
+# Radio 
+
+- [FM radio anywhere](https://theonestopradio.com/country/Romania-RO)
 
 # Speak
 
