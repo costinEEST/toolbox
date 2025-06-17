@@ -1,3 +1,10 @@
+# Animal
+
+- [Species recognition & finder](https://apps.apple.com/us/app/fish-identifier-ai-scanner/id6475028001). Created by [Adam Lyttle](https://appgallery.io/adamlyttleapps)
+
+# Apple 
+
+- [Keyword popularity sourced from Apple Search Ads](https://tryastro.app). Recommend by [Adam Lyttle](https://appgallery.io/adamlyttleapps)
 
 # File 
 
@@ -24,6 +31,11 @@
 
 - [LinguaSnapp](http://mlm.humanities.manchester.ac.uk/linguasnapp). Created by [Yaron Matras](https://yaronmatras.org/projects)
 - [LuoDingo Spanish](https://sharyphil.com/spanish/luodingo/luodingo.html). Created by [Phil Shary](https://www.reddit.com/r/learnspanish/comments/1ku6j6g/i_built_luodingo_spanish_2000_words_and)
+
+# Time 
+
+- [Share dates](https://pocketcal.com). Created by [Cassidy Williams](https://cassidoo.co/post/pocketcal-build-log)
+- [Timezone planner designed to make scheduling across different time zones fast, simple, and effortless](https://timepeek.app)
 
 # Travel
 
