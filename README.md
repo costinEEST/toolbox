@@ -31,6 +31,7 @@
 
 - [LinguaSnapp](http://mlm.humanities.manchester.ac.uk/linguasnapp). Created by [Yaron Matras](https://yaronmatras.org/projects)
 - [LuoDingo Spanish](https://sharyphil.com/spanish/luodingo/luodingo.html). Created by [Phil Shary](https://www.reddit.com/r/learnspanish/comments/1ku6j6g/i_built_luodingo_spanish_2000_words_and)
+- [Quick Chinese-English dictionary](https://chinesedict.fyi). Created by [Jeff Carpenter](https://github.com/jeffcarp/chinesedict)
 
 # Time 
 
