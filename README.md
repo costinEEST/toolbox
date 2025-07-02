@@ -6,6 +6,10 @@
 
 - [Keyword popularity sourced from Apple Search Ads](https://tryastro.app). Recommend by [Adam Lyttle](https://appgallery.io/adamlyttleapps)
 
+# Book 
+
+- [Legally available online books](http://onlinebooks.library.upenn.edu/subjects.html)
+
 # File 
 
 - [Convert a URL to Markdown](https://r.jina.ai)
