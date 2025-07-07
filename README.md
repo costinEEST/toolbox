@@ -10,6 +10,10 @@
 
 - [Legally available online books](http://onlinebooks.library.upenn.edu/subjects.html)
 
+# Cinema 
+
+- [Streaming guide for movies and TV shows](https://www.justwatch.com)
+
 # File 
 
 - [Convert a URL to Markdown](https://r.jina.ai)
