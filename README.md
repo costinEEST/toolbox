@@ -17,6 +17,7 @@
 # File 
 
 - [Convert a URL to Markdown](https://r.jina.ai)
+- [Download just a sub directory from a GitHub repo](https://download-directory.github.io). Created by [Federico Brigante](https://github.com/fregante)
 
 # History 
 
