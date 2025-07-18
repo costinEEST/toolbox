@@ -65,3 +65,7 @@
 
 - [Appear as any character on video calls using just one photo](https://www.phazr.ai)
 - [Extract video assets and download URLs from Wistia](https://costineest.github.io/WistiaAssetExtractor)
+
+# Wiki 
+
+- https://nerdy.dev/tools-in-tabs-2024-edition
