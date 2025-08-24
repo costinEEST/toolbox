@@ -70,3 +70,4 @@
 # Wiki 
 
 - https://nerdy.dev/tools-in-tabs-2024-edition
+- [Developer setups, gear, software and configs](https://uses.tech). Created by [Wes Bos](https://github.com/wesbos/awesome-uses)
