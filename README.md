@@ -71,3 +71,7 @@
 
 - https://nerdy.dev/tools-in-tabs-2024-edition
 - [Developer setups, gear, software and configs](https://uses.tech). Created by [Wes Bos](https://github.com/wesbos/awesome-uses)
+
+# Write 
+
+- [Copy symbol](https://symbol.wtf). Created by [Sam Rose](https://github.com/samwho/symbol.wtf)
