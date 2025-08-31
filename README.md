@@ -19,6 +19,7 @@
 - [Convert a URL to Markdown](https://r.jina.ai)
 - [Download just a sub directory from a GitHub repo](https://download-directory.github.io). Created by [Federico Brigante](https://github.com/fregante)
 - [A library for creating vector graphics (SVGs), in the browser](https://github.com/kurtbruns/vector). Created by [Kurt Bruns](https://wumbo.net/about/#tools)
+- [Instant AI summaries for any PDF](https://smart-pdf-i-gen.vercel.app) Created by [Othniel Konan](https://www.linkedin.com/posts/othniel-konan-a54b4b242_smart-pdf-i-gen-activity-7367240743964274688-uMWK)
 
 # History 
 
