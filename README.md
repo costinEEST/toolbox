@@ -23,6 +23,7 @@
 - [Hybrid Analysis: malware sandbox-based analysis](https://hybrid-analysis.com)
 - [VirusTotal: malware scanner using ~70 different engines](https://www.virustotal.com/gui/home/upload)
 - [Jotti's malware scanner using ~15 different engines](https://virusscan.jotti.org)
+- [Online EPUB](https://lwebapp.com/en/epub-reader)
 
 # History 
 
