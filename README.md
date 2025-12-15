@@ -43,6 +43,10 @@
 - [Transfer playlists between music services](https://www.tunemymusic.com)
 - [brain.fm](https://linktr.ee/brainfmapp). Recommended by [Sara Soueidan](https://www.sarasoueidan.com/about)
 
+# Philosophy
+
+- [Help college students learn formal and informal logic](https://logicola.org). Built by [Malik Piara](https://moonwith.com/dashboard)
+
 # Radio 
 
 - [FM radio anywhere](https://theonestopradio.com/country/Romania-RO)
