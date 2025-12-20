@@ -10,6 +10,10 @@
 
 - [Legally available online books](http://onlinebooks.library.upenn.edu/subjects.html)
 
+# Calculator 
+
+- [Mortgage calculator](https://www.ezmortgagecalculator.com). Created by [Anthony Ngo](https://www.linkedin.com/posts/anthonyvngo_ez-mortgage-calculator-activity-7308356424416251904-Mo8i)
+
 # Cinema 
 
 - [Streaming guide for movies and TV shows](https://www.justwatch.com)
@@ -77,6 +81,10 @@
 
 - [Appear as any character on video calls using just one photo](https://www.phazr.ai)
 - [Extract video assets and download URLs from Wistia](https://costineest.github.io/WistiaAssetExtractor)
+
+# Weather 
+
+- https://ericrechlin.com/weather
 
 # Wiki 
 
