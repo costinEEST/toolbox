@@ -2,23 +2,23 @@
 
 - [Species recognition & finder](https://apps.apple.com/us/app/fish-identifier-ai-scanner/id6475028001). Created by [Adam Lyttle](https://appgallery.io/adamlyttleapps)
 
-# Apple 
+# Apple
 
 - [Keyword popularity sourced from Apple Search Ads](https://tryastro.app). Recommend by [Adam Lyttle](https://appgallery.io/adamlyttleapps)
 
-# Book 
+# Book
 
 - [Legally available online books](http://onlinebooks.library.upenn.edu/subjects.html)
 
-# Calculator 
+# Calculator
 
 - [Mortgage calculator](https://www.ezmortgagecalculator.com). Created by [Anthony Ngo](https://www.linkedin.com/posts/anthonyvngo_ez-mortgage-calculator-activity-7308356424416251904-Mo8i)
 
-# Cinema 
+# Cinema
 
 - [Streaming guide for movies and TV shows](https://www.justwatch.com)
 
-# File 
+# File
 
 - [Convert a URL to Markdown](https://r.jina.ai)
 - [Download just a sub directory from a GitHub repo](https://download-directory.github.io). Created by [Federico Brigante](https://github.com/fregante)
@@ -28,30 +28,32 @@
 - [VirusTotal: malware scanner using ~70 different engines](https://www.virustotal.com/gui/home/upload)
 - [Jotti's malware scanner using ~15 different engines](https://virusscan.jotti.org)
 - [Online EPUB](https://lwebapp.com/en/epub-reader)
+- [Add a background box to a SVG](https://github.com/davis7dotsh/quick-svg-bg)
 
-# History 
+# History
 
 - [Map boundaries through time](https://www.oldmapsonline.org). Created by [Petr Přidal](https://maplibre.org/about/petr)
 
-# Map 
+# Map
 
 - [Bucharest public fountains map](https://aiparte.ro/deapa/?lang=en)
 
-# Mentor 
+# Mentor
 
-- [Bug bounty profiles](https://www.disclosedonline.com/directory). Created by [Harley Kimball
-](https://x.com/infinitelogins/status/1929017755136561402)
+- [Bug bounty profiles](https://www.disclosedonline.com/directory). Created by [Harley Kimball](https://x.com/infinitelogins/status/1929017755136561402)
 
-# Music 
+# Music
 
 - [Transfer playlists between music services](https://www.tunemymusic.com)
 - [brain.fm](https://linktr.ee/brainfmapp). Recommended by [Sara Soueidan](https://www.sarasoueidan.com/about)
+- [Scales generator for strings instruments, like guitar, bass guitar and ukulele](http://guitar.merencia.com)
+- [A semantic search engine for rap verses](https://github.com/JamesCowling/rap-genie)
 
 # Philosophy
 
 - [Help college students learn formal and informal logic](https://logicola.org). Built by [Malik Piara](https://moonwith.com/dashboard)
 
-# Radio 
+# Radio
 
 - [FM radio anywhere](https://theonestopradio.com/country/Romania-RO)
 
@@ -62,36 +64,36 @@
 - [Quick Chinese-English dictionary](https://chinesedict.fyi). Created by [Jeff Carpenter](https://github.com/jeffcarp/chinesedict)
 - [Spanish irregular verbs](https://spanishwithkevin.pythonanywhere.com). Created by [Kevin Garcia](https://spanishwithkevin.com/online-spanish-teacher)
 
-# Time 
+# Time
 
 - [Share dates](https://pocketcal.com). Created by [Cassidy Williams](https://cassidoo.co/post/pocketcal-build-log)
 - [Timezone planner designed to make scheduling across different time zones fast, simple, and effortless](https://timepeek.app)
-- https://timee.io, https://timee.io/i/dev, https://www.saashub.com/compare-timee-io-vs-qlock, 
+- https://timee.io, https://timee.io/i/dev, https://www.saashub.com/compare-timee-io-vs-qlock,
 
 # Travel
 
 - https://cruisesheet.com created by [Tynan](https://tynan.com/about)
 - [Find saunas worldwide](https://findmysauna.com). Created by [Jenda Tovarys](https://www.linkedin.com/in/jantovarys)
 
-
 # Typography
 
 - [Transform your handwriting or calligraphy into a font](https://www.calligraphr.com/en). [What ?](https://www.theverge.com/tech/634904/calligraphr-fonts-favorites)
 
-# Video 
+# Video
 
 - [Appear as any character on video calls using just one photo](https://www.phazr.ai)
 - [Extract video assets and download URLs from Wistia](https://costineest.github.io/WistiaAssetExtractor)
+- https://playlists.at/youtube/search
 
-# Weather 
+# Weather
 
 - https://ericrechlin.com/weather
 
-# Wiki 
+# Wiki
 
 - https://nerdy.dev/tools-in-tabs-2024-edition
 - [Developer setups, gear, software and configs](https://uses.tech). Created by [Wes Bos](https://github.com/wesbos/awesome-uses)
 
-# Write 
+# Write
 
 - [Copy symbol](https://symbol.wtf). Created by [Sam Rose](https://github.com/samwho/symbol.wtf)
