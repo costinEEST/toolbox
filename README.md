@@ -63,6 +63,7 @@
 - [LuoDingo Spanish](https://sharyphil.com/spanish/luodingo/luodingo.html). Created by [Phil Shary](https://www.reddit.com/r/learnspanish/comments/1ku6j6g/i_built_luodingo_spanish_2000_words_and)
 - [Quick Chinese-English dictionary](https://chinesedict.fyi). Created by [Jeff Carpenter](https://github.com/jeffcarp/chinesedict)
 - [Spanish irregular verbs](https://spanishwithkevin.pythonanywhere.com). Created by [Kevin Garcia](https://spanishwithkevin.com/online-spanish-teacher)
+- [Text to speech](https://luvvoice.com)
 
 # Time
 
