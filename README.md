@@ -5,6 +5,7 @@
 # Apple
 
 - [Keyword popularity sourced from Apple Search Ads](https://tryastro.app). Recommend by [Adam Lyttle](https://appgallery.io/adamlyttleapps)
+- [Interface overhaul for YouTube](https://github.com/hv33y/hvOS). Developer by [Harry Kauhaad](https://www.linkedin.com/posts/hv33y_productivity-desksetup-opensource-share-7499964388200779776-tlgE)
 
 # Book
 
